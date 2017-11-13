@@ -1,10 +1,19 @@
+<style>
 #slogan { 
-font-weight: bold; 
+font-weight: bold;
+text-align: center; 
 }
+</style>
 
 h1 {
 background: #ffffff;
 color: #A8713B;
-font-style: century gothic;
+font-size: xx-large;
+font-style: arial;
 text-align: center;
+}
+
+<style>
+.blurb {
+	color: #215737;
 }

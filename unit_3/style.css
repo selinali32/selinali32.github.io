@@ -1,6 +1,10 @@
-#slogan{
-	font-family: century gothic;
-	color: #af9ca0;
-
+#slogan { 
+font-weight: bold; 
 }
 
+h1 {
+background: #ffffff;
+color: #A8713B;
+font-style: century gothic;
+text-align: center;
+}

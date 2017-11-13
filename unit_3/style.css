@@ -1,7 +1,9 @@
+<style>
 #slogan { 
 font-weight: bold;
 text-align: center; 
 }
+</style>
 
 h1 {
 background: #ffffff;
@@ -11,6 +13,8 @@ font-style: arial;
 text-align: center;
 }
 
+<style>
 .blurb {
 	color: #215737;
 }
+</style>

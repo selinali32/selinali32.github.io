@@ -9,6 +9,14 @@ font-style: black;
 font-size: 40px;
 }
 
+#links {
+	font-family: 'Open Sans', sans-serif;
+	text-transform: lowercase;
+	font-size: 18px;
+	text-align: center;
+	color: #1A5FB2;
+}
+
 #slogan { 
 text-align: center; 
 font-family: 'Open Sans', sans-serif;
@@ -40,7 +48,7 @@ font-size: 25px;
 
 #newarrivals {
 	font-family: 'Open Sans', sans-serif;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	font-size: 18px;
 	text-align: center;
 	color: #1A5FB2;

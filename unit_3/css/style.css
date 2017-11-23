@@ -1,9 +1,7 @@
 
-#slogan { 
-font-style: italic;
-text-align: center; 
-}
-
+<style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+</style>
 
 h1 {
 background: #ffffff;
@@ -12,6 +10,19 @@ font-family: "arial", Times, serif;
 text-align: center;
 font-size: 40px;
 }
+
+#inspiration { 
+font-family: 'Open Sans', sans-serif;
+font-style: Extra-Bold;
+text-align: center; 
+font-size: 25px;
+}
+
+#slogan { 
+font-style: italic;
+text-align: center; 
+}
+
 
 .blurb {
 	color: #215737;

@@ -5,7 +5,7 @@ background: #ffffff;
 color: #A8713B;
 text-align: center;
 font-family: 'Roboto', sans-serif;
-font-style: black;
+font-weight: bold;
 font-size: 40px;
 }
 
@@ -21,7 +21,7 @@ font-size: 40px;
 #slogan { 
 text-align: center; 
 font-family: 'Open Sans', sans-serif;
-font-style: regularitalic;
+font-style: italic;
 font-size: 18px;
 line-height: 1.5em;
 margin: 2em;
@@ -31,7 +31,7 @@ margin: 2em;
 text-align: center;
 color: #A8713B;
 font-family: 'Roboto', sans-serif;
-font-style: bold;
+font-weight: bold;
 font-size: 25px;
 }
 

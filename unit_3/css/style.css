@@ -61,6 +61,15 @@ li {
 	font-size: 18px;
 	color: #215737;
 	font-size: 18px;
+	text-align: center;
+}
+
+#questions {
+	ont-family: 'Open Sans', sans-serif;
+	font-style: light;
+	font-size: 18px;
+	color: #215737;
+	font-size: 18px;
 }
 
 a {

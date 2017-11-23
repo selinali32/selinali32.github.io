@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:light,regularitalic,extra-bold,bold|Roboto');
 
 h1 {
 background: #ffffff;
@@ -9,20 +9,20 @@ font-style: black;
 font-size: 40px;
 }
 
+#slogan { 
+text-align: center; 
+font-family: 'Open Sans', sans-serif;
+font-style: regularitalic;
+font-size: 18px;
+line-height: 1.5em;
+margin: 2em;
+}
+
 #inspiration { 
 text-align: center;
 font-family: 'Open Sans', sans-serif;
 font-style: bold;
 font-size: 25px;
-}
-
-#slogan { 
-text-align: center; 
-font-family: 'Open Sans', sans-serif;
-font-style: 'regular italic';
-font-size: 18px;
-line-height: 1.5em;
-margin: 2em;
 }
 
 

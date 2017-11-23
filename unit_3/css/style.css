@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
 
 h1 {
 background: #ffffff;
 color: #A8713B;
-font-family: "arial", Times, serif;
 text-align: center;
+font-family: 'Roboto', sans-serif;
+font-style: black;
 font-size: 40px;
 }
 
@@ -27,9 +27,19 @@ margin: 2em;
 
 
 .blurb {
+	text-align: center; 
+	font-family: 'Open Sans', sans-serif;
+	font-style: light;
+	font-size: 18px;
 	color: #215737;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
 }
 
 #newarrivals {
-text-transform: uppercase;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	font-size: 18px;
+	text-align: center;
 }

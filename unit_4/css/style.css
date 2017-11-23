@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:light,regularitalic,extra-bold,bold|Roboto');
+
+h1 {
+background: #ffffff;
+color: #A8713B;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 40px;
+}
+
+#links {
+	font-family: 'Open Sans', sans-serif;
+	text-transform: lowercase;
+	font-size: 18px;
+	font-style: underline;
+	text-align: center;
+	color: #1A5FB2;
+}
+
+#slogan { 
+text-align: center; 
+font-family: 'Open Sans', sans-serif;
+font-style: italic;
+font-size: 18px;
+line-height: 1.5em;
+margin: 2em;
+}
+
+#inspiration { 
+text-align: center;
+color: #A8713B;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 25px;
+}
+
+
+.blurb {
+	text-align: center; 
+	font-family: 'Open Sans', sans-serif;
+	font-style: light;
+	font-size: 18px;
+	color: #215737;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+#newarrivals {
+	font-family: 'Open Sans', sans-serif;
+	text-transform: lowercase;
+	font-size: 18px;
+	text-align: center;
+	color: #1A5FB2;
+}
+
+li {
+ 	font-family: 'Open Sans', sans-serif;
+	font-style: light;
+	font-size: 18px;
+	color: #215737;
+	font-size: 18px;
+}
+
+#questions {
+	ont-family: 'Open Sans', sans-serif;
+	font-style: light;
+	font-size: 18px;
+	color: #215737;
+	font-size: 18px;
+}
+
+a {
+  text-decoration: underline;
+}

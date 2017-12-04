@@ -27,7 +27,7 @@ h1 {
 nav {
     background-color: #E8C66A;
     border: 1px black solid;
-    padding: 20px;
+    padding: 0 20px;
 }
 
 #links {
@@ -120,4 +120,5 @@ footer {
 
 a {
   text-decoration: underline;
+  padding: 0 1em;
 }

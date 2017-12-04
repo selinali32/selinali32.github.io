@@ -1,12 +1,33 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,400i,500,500i,700,700i');
 
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
 h1 {
-	background: #ffffff;
+	background: none;
 	color: #A8713B;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
 	font-size: 40px;
+}
+
+#slogan { 
+	text-align: center; 
+	font-family: 'Open Sans', sans-serif;
+	font-style: italic;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 #links {
@@ -18,13 +39,28 @@ h1 {
 	color: #1A5FB2;
 }
 
-#slogan { 
-	text-align: center; 
-	font-family: 'Open Sans', sans-serif;
-	font-style: italic;
-	font-size: 18px;
-	line-height: 1.5em;
-	margin: 2em;
+#one {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#two {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.picture {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 #inspiration { 
@@ -66,6 +102,12 @@ li {
 	font-size: 18px;
 	color: #215737;
 	font-size: 18px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 #questions {
